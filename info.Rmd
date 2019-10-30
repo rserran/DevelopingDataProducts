@@ -1,0 +1,10 @@
+---
+title: "About this application"
+output: html_document
+---
+
+This Shiny application is part of the Developing Data Products Coursera course project <https://www.coursera.org/learn/data-products/>.
+
+The application performs a multiple regression model on the Longley economic dataset included in the R datasets package. <https://www.statsmodels.org/dev/datasets/generated/longley.html>
+
+Submitted October 27, 2019

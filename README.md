@@ -12,4 +12,4 @@ The course project requirements are:
 
 Shiny app: https://ricsam.shinyapps.io/ddp_project/
 
-Source code: 
+Source code: https://github.com/rserran/developingdataproducts
